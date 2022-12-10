@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Sunil Kamkar 👋
 I am an Analytics & Data Science professional with 3+ years of experience
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 - 🌱 I’m currently pursuing Master of Science in Business Analytics from University of Texas at Austin
