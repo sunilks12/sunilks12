@@ -1,7 +1,6 @@
-#  Sunil Kamkar 
-### Hi there 👋
+###  Hey! Nice to see you.
 
-I am an Analytics & Data Science professional with 3+ years of experience
+I am Sunil Kamkar, Analytics & Data Science professional with 3+ years of experience, currently living in Austin, USA.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 - 🌱 I’m currently pursuing Master of Science in Business Analytics from University of Texas at Austin
 - ✨ I'm excited by the research taking on in the Data Science/ML arena, and I do my best to stay up with the breakthroughs.
