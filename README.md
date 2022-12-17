@@ -11,7 +11,7 @@ Feel free to check out my latest projects in the below repositories
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <br>
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunilks12&show_icons=true&theme=radical" />
   
 </p>
